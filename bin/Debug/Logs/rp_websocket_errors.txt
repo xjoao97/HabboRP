@@ -1,0 +1,1859 @@
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at Fleck.SocketWrapper.<>c__DisplayClasse.<Receive>b__6(AsyncCallback cb, Object s)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl(Func`3 beginMethod, Func`2 endFunction, Action`1 endAction, Object state, TaskCreationOptions creationOptions)
+   at Fleck.SocketWrapper.Receive(Byte[] buffer, Action`1 callback, Action`1 error, Int32 offset)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma conex?o estabelecida foi anulada pelo software no computador host. ---> System.Net.Sockets.SocketException: Uma conex?o estabelecida foi anulada pelo software no computador host
+   em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em Fleck.SocketWrapper.<>c__DisplayClasse.<Receive>b__6(AsyncCallback cb, Object s)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncImpl(Func`3 beginMethod, Func`2 endFunction, Action`1 endAction, Object state, TaskCreationOptions creationOptions)
+   em Fleck.SocketWrapper.Receive(Byte[] buffer, Action`1 callback, Action`1 error, Int32 offset)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at Fleck.SocketWrapper.<>c__DisplayClasse.<Receive>b__6(AsyncCallback cb, Object s)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl(Func`3 beginMethod, Func`2 endFunction, Action`1 endAction, Object state, TaskCreationOptions creationOptions)
+   at Fleck.SocketWrapper.Receive(Byte[] buffer, Action`1 callback, Action`1 error, Int32 offset)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at Fleck.SocketWrapper.<>c__DisplayClasse.<Receive>b__6(AsyncCallback cb, Object s)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl(Func`3 beginMethod, Func`2 endFunction, Action`1 endAction, Object state, TaskCreationOptions creationOptions)
+   at Fleck.SocketWrapper.Receive(Byte[] buffer, Action`1 callback, Action`1 error, Int32 offset)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at Fleck.SocketWrapper.<>c__DisplayClasse.<Receive>b__6(AsyncCallback cb, Object s)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl(Func`3 beginMethod, Func`2 endFunction, Action`1 endAction, Object state, TaskCreationOptions creationOptions)
+   at Fleck.SocketWrapper.Receive(Byte[] buffer, Action`1 callback, Action`1 error, Int32 offset)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Foi for?ado o cancelamento de uma conex?o existente pelo host remoto. ---> System.Net.Sockets.SocketException: Foi for?ado o cancelamento de uma conex?o existente pelo host remoto
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+O ?ndice estava fora dos limites da matriz.
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Foi for?ado o cancelamento de uma conex?o existente pelo host remoto. ---> System.Net.Sockets.SocketException: Foi for?ado o cancelamento de uma conex?o existente pelo host remoto
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+Object reference not set to an instance of an object.
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma conex?o estabelecida foi anulada pelo software no computador host. ---> System.Net.Sockets.SocketException: Uma conex?o estabelecida foi anulada pelo software no computador host
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma conex?o estabelecida foi anulada pelo software no computador host. ---> System.Net.Sockets.SocketException: Uma conex?o estabelecida foi anulada pelo software no computador host
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma conex?o estabelecida foi anulada pelo software no computador host. ---> System.Net.Sockets.SocketException: Uma conex?o estabelecida foi anulada pelo software no computador host
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma conex?o estabelecida foi anulada pelo software no computador host. ---> System.Net.Sockets.SocketException: Uma conex?o estabelecida foi anulada pelo software no computador host
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Foi for?ado o cancelamento de uma conex?o existente pelo host remoto. ---> System.Net.Sockets.SocketException: Foi for?ado o cancelamento de uma conex?o existente pelo host remoto
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+
+
+
+System.IO.IOException: N?o ? poss?vel ler os dados da conex?o de transporte: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu. ---> System.Net.Sockets.SocketException: Uma tentativa de conex?o falhou porque o componente conectado n?o respondeu
+corretamente ap?s um per?odo de tempo ou a conex?o estabelecida falhou
+porque o host conectado n?o respondeu
+   em System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fim do rastreamento de pilha de exce??es internas ---
+   em System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   em System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+
+

@@ -1,0 +1,12 @@
+
+
+Error in Execute() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Timers.Types.ConditionCheckTimer.Execute() in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Timers\Types\ConditionCheckTimer.cs:line 60
+
+
+
+
+Error in Execute() void: System.IndexOutOfRangeException: O ?ndice estava fora dos limites da matriz.
+   em Plus.HabboRoleplay.Timers.Types.WorkoutTimer.Execute() na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Timers\Types\WorkoutTimer.cs:linha 47
+
+

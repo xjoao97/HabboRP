@@ -1,0 +1,513 @@
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 20
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\ADM\Documents\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Exce??o critima do sistema: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MySql.Data.MySqlClient.MySqlField.SetFieldEncoding()
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnData(MySqlField field)
+   at MySql.Data.MySqlClient.NativeDriver.GetColumnsData(MySqlField[] columns)
+   at MySql.Data.MySqlClient.Driver.GetColumns(Int32 count)
+   at MySql.Data.MySqlClient.ResultSet.LoadColumns(Int32 numCols)
+   at MySql.Data.MySqlClient.ResultSet..ctor(Driver d, Int32 statementId, Int32 numCols)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.Close()
+   at MySql.Data.MySqlClient.MySqlConnection.Close()
+   at MySql.Data.MySqlClient.MySqlConnection.Dispose(Boolean disposing)
+   at MySql.Data.MySqlClient.MySqlConnection.Finalize()
+
+
+Quarto afetado - ID: 1 - System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:line 811
+
+
+Quarto afetado - ID: 1 - System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:line 811
+
+
+Quarto afetado - ID: 1 - System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:line 811
+
+
+Quarto afetado - ID: 1 - System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:line 811
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Erro em GetItemsFromIds vazio: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.Gamemap.GetItemsFromIds(List`1 Input) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\GameMap.cs:linha 1561
+
+
+Quarto afetado - ID: 255 - System.ArgumentNullException: Valor n?o pode ser nulo.
+Nome do par?metro: source
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:linha 811
+
+
+Erro em GetItemsFromIds vazio: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.Gamemap.GetItemsFromIds(List`1 Input) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\GameMap.cs:linha 1561
+
+
+Quarto afetado - ID: 255 - System.ArgumentNullException: Valor n?o pode ser nulo.
+Nome do par?metro: source
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:linha 811
+
+
+Erro em GetItemsFromIds vazio: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.Gamemap.GetItemsFromIds(List`1 Input) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\GameMap.cs:linha 1561
+
+
+Quarto afetado - ID: 255 - System.ArgumentNullException: Valor n?o pode ser nulo.
+Nome do par?metro: source
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:linha 811
+
+
+Erro em GetItemsFromIds vazio: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.Gamemap.GetItemsFromIds(List`1 Input) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\GameMap.cs:linha 1561
+
+
+Quarto afetado - ID: 255 - System.ArgumentNullException: Valor n?o pode ser nulo.
+Nome do par?metro: source
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomUserManager.cs:linha 811
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\emulador - C?pia\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:line 42
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Quarto afetado - ID: 114 - System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Rooms\RoomUserManager.cs:line 811
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboRoleplay\Misc\DayNightManager.cs:line 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Erro durante o login do usu?rio: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Users.Authenticator.HabboFactory.GenerateHabbo(DataRow Row, DataRow UserInfo) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Users\Authenticator\Authenticator.cs:linha 10
+   em Plus.HabboHotel.Users.UserDataManagement.UserDataFactory.GetUserData(String SessionTicket, Byte& errorCode) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Users\UserData\UserDataFactory.cs:linha 222
+   em Plus.HabboHotel.GameClients.GameClient.TryAuthenticate(String AuthTicket) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\GameClients\GameClient.cs:linha 119
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Items.Data.Moodlight.MoodlightData..ctor(Int32 ItemId) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Items\Data\Moodlight\MoodlightData.cs:linha 42
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 262
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+
+
+Quarto afetado - ID: 218 - System.ArgumentNullException: Valor n?o pode ser nulo.
+Nome do par?metro: source
+   em System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   em Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\RoomUserManager.cs:linha 811
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 275
+
+
+Error in ActiveCycle() void: System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboRoleplay.Misc.DayNightManager.ActiveCycle(Int32 Intensity) na C:\Users\Administrator\Desktop\Emulador\HabboRoleplay\Misc\DayNightManager.cs:linha 269
+

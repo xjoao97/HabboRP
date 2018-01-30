@@ -1,0 +1,240 @@
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Plus Emulator.exe.config
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Plus Emulator.exe
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Plus Emulator.pdb
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Fleck.dll
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\log4net.dll
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\MySql.Data.dll
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\log4net.xml
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\obj\x86\Debug\Plus Emulator.exe
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\soz\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\HabboRC4.dll
+C:\Users\Funto\Desktop\HoloRP Workspace\PlusRP Emulator\bin\Debug\Plus Emulator.exe.config
+C:\Users\Funto\Desktop\HoloRP Workspace\PlusRP Emulator\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Funto\Desktop\HoloRP Workspace\PlusRP Emulator\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emu Gringo\PlusRP Emulator\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Emuladores\Gringo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\Plus Emulator.exe.config
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\Fleck.dll
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\HabboRC4.dll
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\log4net.dll
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\MySql.Data.dll
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\log4net.xml
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\Emuladores\Gringo\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Gringo\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Gringo\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Gringo\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Gringo\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Gringo\bin\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\Plus Emulator.exe.config
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\Fleck.dll
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\HabboRC4.dll
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\log4net.dll
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\MySql.Data.dll
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\log4net.xml
+C:\Users\ADM\Documents\Desktop\03 10 17\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADM\Documents\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\03 10 17\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\03 10 17\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\em\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\em\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\em\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\em\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\em\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\em\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\em\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\em\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\em\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\em\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\em\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\em\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\em\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\em\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Emulador completo - startwork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Emulador completo - startwork\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Emulador completo - startwork\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Emulador completo - startwork\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emulador completo - startwork\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emulador completo - startwork - Copy\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\emu rtrt c db\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\emu rtrt c db\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\emu rtrt c db\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\emu rtrt c db\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\emu rtrt c db\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\emulador\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\emulador\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\emulador\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\emulador\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\emulador\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\emulador\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\emulador\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\emulador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\emulador\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\emulador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\emulador\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\emulador\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\emulador\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\emulador\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\Plus Emulator.exe.config
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\Fleck.dll
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\HabboRC4.dll
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\log4net.dll
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\MySql.Data.dll
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\log4net.xml
+C:\Users\ADM\Documents\Desktop\emulador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADM\Documents\Desktop\emulador\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Desktop\emulador\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Desktop\emulador\obj\x86\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\emulador\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\Plus Emulator.exe.config
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\Fleck.dll
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\HabboRC4.dll
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\log4net.dll
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\MySql.Data.dll
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\log4net.xml
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\emulador - Cópia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\emulador - Cópia\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\Plus Emulator.exe.config
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\Plus Emulator.pdb
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\Fleck.dll
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\HabboRC4.dll
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\Emulador HabboRPG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Emulador HabboRPG\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Emulador HabboRPG\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Emulador HabboRPG\obj\x86\Debug\Plus Emulator.exe
+C:\Users\Administrator\Desktop\Emulador HabboRPG\obj\x86\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\Plus Emulator.exe.config
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\Plus Emulator.pdb
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\Fleck.dll
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\HabboRC4.dll
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\log4net.dll
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\MySql.Data.dll
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\log4net.xml
+C:\Users\ADM\Documents\Desktop\Emuladorx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.exe
+C:\Users\ADM\Documents\Desktop\Emuladorx\obj\x86\Debug\Plus Emulator.pdb

@@ -1,0 +1,106 @@
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Users.Habbo.PrepareRoom(Int32 Id, String Password) in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Users\Habbo.cs:line 1330
+   at Plus.HabboHotel.Items.Item.ProcessUpdates() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Item.cs:line 1000
+
+
+
+
+[Quarto ID: 1] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomItemHandling.cs:line 860
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\Room.cs:line 740
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Gamemap.GenerateMaps(Boolean checkLines) in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\GameMap.cs:line 295
+   at Plus.HabboHotel.Items.Item.ProcessUpdates() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Item.cs:line 1012
+
+
+
+
+[Quarto ID: 1] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomItemHandling.cs:line 860
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\Room.cs:line 740
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Users.Habbo.PrepareRoom(Int32 Id, String Password) in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Users\Habbo.cs:line 1330
+   at Plus.HabboHotel.Items.Item.ProcessUpdates() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Item.cs:line 1000
+
+
+
+
+[Quarto ID: 1] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomItemHandling.cs:line 860
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\Room.cs:line 740
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Users.Habbo.PrepareRoom(Int32 Id, String Password) in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Users\Habbo.cs:line 1330
+   at Plus.HabboHotel.Items.Item.ProcessUpdates() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Items\Item.cs:line 1000
+
+
+
+
+[Quarto ID: 1] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomItemHandling.cs:line 860
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\Room.cs:line 740
+
+
+
+
+[Quarto ID: 255] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomItemHandling.cs:linha 857
+   em Plus.HabboHotel.Rooms.Room.ProcessRoom() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\Room.cs:linha 740
+
+
+
+
+[Quarto ID: 255] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\RoomItemHandling.cs:linha 857
+   em Plus.HabboHotel.Rooms.Room.ProcessRoom() na C:\Users\Administrator\Desktop\emulador - C?pia\HabboHotel\Rooms\Room.cs:linha 740
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Gamemap.GenerateMaps(Boolean checkLines) in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Rooms\GameMap.cs:line 295
+   at Plus.HabboHotel.Items.Item.ProcessUpdates() in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Items\Item.cs:line 1012
+
+
+
+
+[Quarto ID: 114] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Rooms\RoomItemHandling.cs:line 860
+   at Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Administrator\Desktop\Emulador HabboRPG\HabboHotel\Rooms\Room.cs:line 740
+
+
+
+
+System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.Gamemap.GenerateMaps(Boolean checkLines) na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\GameMap.cs:linha 295
+   em Plus.HabboHotel.Items.Item.ProcessUpdates() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Items\Item.cs:linha 1012
+
+
+
+
+[Quarto ID: 218] est? atualmente tendo problemas ao andar nos itens da sala.System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.RoomItemHandling.OnCycle() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\RoomItemHandling.cs:linha 860
+   em Plus.HabboHotel.Rooms.Room.ProcessRoom() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\Room.cs:linha 740
+
+
+
+
+[Quarto ID: 218] est? atualmente tendo problemas para funcionar os itens do jogo.System.NullReferenceException: Refer?ncia de objeto n?o definida para uma inst?ncia de um objeto.
+   em Plus.HabboHotel.Rooms.GameItemHandler.CyclePyramids() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\Games\GameItemHandler.cs:linha 35
+   em Plus.HabboHotel.Rooms.GameItemHandler.OnCycle() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\Games\GameItemHandler.cs:linha 28
+   em Plus.HabboHotel.Rooms.Room.ProcessRoom() na C:\Users\Administrator\Desktop\Emulador\HabboHotel\Rooms\Room.cs:linha 767
+
+
